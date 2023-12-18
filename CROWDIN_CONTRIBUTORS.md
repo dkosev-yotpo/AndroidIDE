@@ -10,7 +10,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>Akash Yadav (itsaky)</b></sub></a>
       <br />
-      <sub><b>64398 words</b></sub>
+      <sub><b>64426 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/esalessandrx"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15563911/medium/a2262fe354d51d9c991d06fcace20b7a.jpg" />
@@ -31,7 +31,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>zhiq liu (liziq)</b></sub></a>
       <br />
-      <sub><b>3849 words</b></sub>
+      <sub><b>3996 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/drakulaboy"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15749489/medium/3b3b4c672b219fa985c0bf5d665a1d7c.png" />
@@ -45,14 +45,14 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>Andi Hasan A (andihasan97)</b></sub></a>
       <br />
-      <sub><b>2361 words</b></sub>
+      <sub><b>2497 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/Baturax"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15503338/medium/84e6393daad44746e6f870fd1a19bcb6.png" />
         <br />
         <sub><b>Bai (Baturax)</b></sub></a>
       <br />
-      <sub><b>1573 words</b></sub>
+      <sub><b>1592 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/krc440002"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/12564628/medium/addb4132479fae98076ae2fa4ccb42a4_default.png" />
@@ -75,7 +75,7 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>rafael_mn</b></sub></a>
       <br />
-      <sub><b>1882 words</b></sub>
+      <sub><b>1910 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/TheDonMarv"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15549947/medium/7e2d0178f0ff00eba107fac474caa6a2.png" />
@@ -89,7 +89,14 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <br />
         <sub><b>Deep Kr. Ghosh (deepkrg17)</b></sub></a>
       <br />
-      <sub><b>721 words</b></sub>
+      <sub><b>881 words</b></sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://crowdin.com/profile/Smooth-E"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15555625/medium/1fc098969551e0430a579242afe26c5f.png" />
+        <br />
+        <sub><b>Smooth-E</b></sub></a>
+      <br />
+      <sub><b>562 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/friostd"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15549279/medium/2d1718f34c949d5df55e346a0d6e5cb0.jpeg" />
@@ -97,13 +104,6 @@ Thanks to all these people, AndroidIDE has been translated into multiple languag
         <sub><b>friostd</b></sub></a>
       <br />
       <sub><b>543 words</b></sub>
-    </td>
-    <td align="center" valign="top">
-      <a href="https://crowdin.com/profile/Smooth-E"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15555625/medium/1fc098969551e0430a579242afe26c5f.png" />
-        <br />
-        <sub><b>Smooth-E</b></sub></a>
-      <br />
-      <sub><b>494 words</b></sub>
     </td>
     <td align="center" valign="top">
       <a href="https://crowdin.com/profile/Marcus_Jeeves"><img alt="logo" style="width: 64px" src="https://crowdin-static.downloads.crowdin.com/avatar/15930373/medium/64fdfbf36048d06fa800c60cfc455cba_default.png" />
